@@ -11,7 +11,7 @@ EEEEE
 
 */
 
-void pattern15(int n)
+void pattern16(int n)
 {
     for (int i = 0; i < n; i++)
     {
@@ -33,6 +33,6 @@ int main()
     {
         int n;
         cin >> n;
-        pattern15(n);
+        pattern16(n);
     }
 }
